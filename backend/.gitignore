@@ -1,0 +1,13 @@
+# Secrets — never commit real API keys
+.env
+
+# Local SQLite database
+lexaudit.db
+
+# Generated test artifacts
+sample_contract.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
